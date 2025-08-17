@@ -1,0 +1,13 @@
+# Ignore generated site
+_site/
+
+# Ignore Ruby dependencies
+Gemfile
+Gemfile.lock
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

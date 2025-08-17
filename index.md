@@ -66,4 +66,4 @@ layout: default
 Whether you're planning a **new cloud-native platform**, **modernizing your stack**, or **strengthening system reliability and observability**—I can help every step of the way.
 
 📩 **Reach out** to discuss your specific goals and challenges.  
-[LinkedIn](https://www.linkedin.com/in/dotnetspark/) • [GitHub](https://github.com/dotnetspark) • ✉️ yadel.lopez@eblsoftware.com
+[LinkedIn](https://www.linkedin.com/in/dotnetspark/) • [GitHub](https://github.com/dotnetspark) • [Minnect](https://expert.minnect.com/@yadellopez) • ✉️ yadel.lopez@eblsoftware.com
